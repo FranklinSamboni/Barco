@@ -1,5 +1,11 @@
+
 class Motor {
 
 	Strig marcaaaa;
 	
+
+
+	int cilindraje;
+	String marca;
+
 }
